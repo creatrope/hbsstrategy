@@ -1,8 +1,8 @@
 ---
 layout: page
 title: About me
-subtitle: Why happiness hacks?
+subtitle: HBS Strategy LLC?
 ---
 
-I'm interested in the way happiness hacks may affect you and the world around you.
+HBS Strategy LLC provides technology consulting, workshop development, speeches and panels 
 
