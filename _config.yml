@@ -20,14 +20,10 @@ author: H.B. Siegel
 ###############################################
 
 navbar-links:
-  About Me: "H.B. Siegel"
+  About Me: "aboutme"
   Resources:
-    "Frontier Summit Panel 2024": "https://www.youtube.com/watch?v=grSnRGY4CyQ"
-    "CES AI House 2025": "https://www.youtube.com/watch?v=TmT0Q9j_1B4&t=563s"
-    "Offis/Australia": "https://www.youtube.com/watch?v=D7Sn2axd6_Y"
-    "IMDb": "https://www.imdb.com/name/nm0796932/"
-    "Folk Stories": "https://folkstories.org/8"
-    "LinkedIn": "https://www.linkedin.com/in/hbsiegel/"
+    - What Are Affirmations?: "https://www.everydayhealth.com/emotional-health/what-are-affirmations/"
+    - Using Affirmations: "https://www.mindtools.com/air49f4/using-affirmations"
 
 ################
 # --- Logo --- #
@@ -93,7 +89,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "affirmatron.com"
+url-pretty: "hbsstrategy.com"
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
 excerpt_length: 50
