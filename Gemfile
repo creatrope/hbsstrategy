@@ -1,3 +1,4 @@
+gem 'ffi', '< 1.17'
 gem 'tzinfo'
 gem 'tzinfo-data'
 # frozen_string_literal: true
