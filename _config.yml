@@ -10,20 +10,24 @@
 ############################
 
 # Name of website
-title: Affirmatron
+title: HBS Strategy LLC
 
 # Your name to show in the footer
-author: Creatrope
+author: H.B. Siegel
 
 ###############################################
 # --- List of links in the navigation bar --- #
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
+  About Me: "H.B. Siegel"
   Resources:
-    - What Are Affirmations?: "https://www.everydayhealth.com/emotional-health/what-are-affirmations/"
-    - Using Affirmations: "https://www.mindtools.com/air49f4/using-affirmations"
+    "Frontier Summit Panel 2024": "https://www.youtube.com/watch?v=grSnRGY4CyQ"
+    "CES AI House 2025": "https://www.youtube.com/watch?v=TmT0Q9j_1B4&t=563s"
+    "Offis/Australia": "https://www.youtube.com/watch?v=D7Sn2axd6_Y"
+    "IMDb": "https://www.imdb.com/name/nm0796932/"
+    "Folk Stories": "https://folkstories.org/8"
+    "LinkedIn": "https://www.linkedin.com/in/hbsiegel/"
 
 ################
 # --- Logo --- #
@@ -48,13 +52,9 @@ round-avatar: true
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "admin@affirmatron.com"
-  rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  facebook: affirmatron
-  github: creatrope
-  twitter: affirmatron
-  patreon: affirmatron
-  youtube: c/affirmatron
+  email: "admin@hbsstrategy.com"
+  linkedin: hb.siegel
+
 #  medium: yourname
 #  reddit: yourname
 #  linkedin: daattali
@@ -86,8 +86,8 @@ rss-description: This website is a virtual proof that I'm awesome
 
 # Select which social network share links to show in posts
 share-links-active:
-  twitter: true
-  facebook: true
+  twitter: false
+  facebook: false
   linkedin: true
   vk: false
 
@@ -116,7 +116,7 @@ edit_page_button: true
 navbar-var-length: false
 
 # The keywords to associate with your website, for SEO purposes
-#keywords: "my,list,of,keywords"
+#keywords: "technology, consulting, AI, workshops,pixar, amazon, ilm"
 
 ######################################
 # --- Colours / background image --- #
