@@ -1,3 +1,4 @@
+gem "jekyll", "~> 4.3"
 gem 'ffi', '< 1.17'
 gem 'tzinfo'
 gem 'tzinfo-data'
