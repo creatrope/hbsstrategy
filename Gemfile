@@ -1,4 +1,4 @@
-gem "jekyll", "~> 4.3"
+gem "github-pages", group: :jekyll_plugins
 gem 'ffi', '< 1.17'
 gem 'tzinfo'
 gem 'tzinfo-data'
