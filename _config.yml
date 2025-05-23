@@ -10,10 +10,10 @@
 ############################
 
 # Name of website
-title: Happiness Hacks
+title: HBS Strategy LLC
 
 # Your name to show in the footer
-author: Creatrope
+author: H.B. Siegel
 
 ###############################################
 # --- List of links in the navigation bar --- #
@@ -22,8 +22,7 @@ author: Creatrope
 navbar-links:
   About Me: "aboutme"
   Resources:
-    - More Hacks: "https://aldohappy.com/happiness-hacks"
-    - CNN Hacks: "https://www.cnn.com/2016/01/22/health/happiness-hacks/index.html"
+    - Speaker Portfolio: "https://aldohappy.com/happiness-hacks"
 
 ################
 # --- Logo --- #
@@ -48,13 +47,11 @@ round-avatar: true
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "admin@happinesshacks.com"
+  email: "sendhb@gmail.com"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  facebook: happinesshacks
-  github: creatrope
-  twitter: happinesshacks
-  patreon: happinesshacks
-  youtube: c/happinesshacks
+  facebook: hb.siegel 
+  linkedin: hbsiegel
+  twitter: @twhb
 #  medium: yourname
 #  reddit: yourname
 #  linkedin: daattali
@@ -86,14 +83,11 @@ rss-description: This website contains happiness hacks
 
 # Select which social network share links to show in posts
 share-links-active:
-  twitter: true
-  facebook: true
   linkedin: true
-  vk: false
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "happinesshacks.com"
+url-pretty: "hbsstrategy.com"
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
 excerpt_length: 50
