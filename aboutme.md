@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-subtitle: HBS Strategy LLC?
+subtitle: HBS Strategy LLC
 ---
 # HBS Strategy LLC
 
