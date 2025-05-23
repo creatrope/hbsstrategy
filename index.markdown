@@ -15,7 +15,7 @@ H.B. has held leadership roles at top companies including key roles:
 - **Wavefront** – co-creator of foundational Maya technologies  
 - **SGI** – Director of Rendering, OpenGL systems  
 - **Lucasfilm** – CTO at ILM and Skywalker Sound (*Star Wars*, *Jurassic Park*, *Star Trek*, and more)  
-- **Amazon** – founder Amazon's Media Technology team providing foundational tech for Kindle, Amazon Prime Music, Search Inside the Book, Amazon Prime Video  
+- **Amazon** – founder of Amazon's Media Technology team providing foundational tech for Kindle, Amazon Prime Music, Search Inside the Book, Amazon Prime Video  
 - **IMDb** – CTO  
 - **Amazon Grand Challenge** – *Prime Minister of Ideas*
 
