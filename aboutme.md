@@ -30,7 +30,7 @@ H.B. holds **over 90 issued patents**, with several more pending. Beyond his pro
 ## 🤖 Interests in AI
 
 H.B.'s current focus is on **artificial intelligence**, where he explores:
-- **Code generation** using LLMs
+- **Code generation** using LLMs ("Vibe" coding)
 - **Chess analysis and gameplay**
 - **AI-powered storytelling and character development**
 - **Image generation and visual creativity**
