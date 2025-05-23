@@ -3,12 +3,6 @@ layout: page
 title: About me
 subtitle: HBS Strategy LLC?
 ---
----
-layout: page
-title: About Me
-permalink: /aboutme/
----
-
 # HBS Strategy LLC
 
 H.B. Siegel is an experienced technologist with a rich career spanning top companies such as **Amazon**, **IMDb**, **Lucasfilm**, **Wavefront**, **SGI**, and **Pixar**, where he has made lasting contributions to both the tech and entertainment sectors.
@@ -49,4 +43,3 @@ His work combines **LLMs and generative tools** to build resilient, interactive 
 ## 🎯 Mission
 
 Across every chapter of his career, H.B. Siegel has remained dedicated to the pursuit of **innovation**, **creativity**, and **technological progress**.
-
