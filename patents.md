@@ -3,12 +3,6 @@ layout: page
 title: Patents
 permalink: /patents/
 ---
----
-layout: page
-title: Patents
-permalink: /patents/
----
-
 ## Hilliard Siegel Patents
 
 This is a complete list of 94 patents credited to Hilliard Siegel, primarily developed during his tenure at Amazon. The collection spans technologies such as autonomous delivery systems, smart shelving, cloud-based content management, digital media annotation, personalized libraries, and interactive content systems. Each entry links directly to the corresponding USPTO or Google Patents page.
