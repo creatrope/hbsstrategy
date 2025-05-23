@@ -23,7 +23,7 @@ At **Amazon**, H.B. helped launch key digital initiatives like **Search Inside t
 
 ## 💡 Innovation & Hacking
 
-H.B. holds **over 90 issued patents**, with several more pending. Beyond his professional achievements, he is a passionate maker and technologist. He has built multiple **self-replicating 3D printers**, and designed numerous **custom LED lighting installations**.
+H.B. holds **94 issued patents**, with several more pending. Beyond his professional achievements, he is a passionate maker and technologist. He has built multiple **self-replicating 3D printers**, and designed numerous **custom LED lighting installations**.
 
 ---
 
