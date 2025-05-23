@@ -24,7 +24,7 @@ navbar-links:
   Resources:
     - "LinkedIn": "https://www.linkedin.com/in/hbsiegel/"
     - "Videos": /videos/
-    - Patents": /patents/
+    - "Patents": /patents/
 
 ################
 # --- Logo --- #
